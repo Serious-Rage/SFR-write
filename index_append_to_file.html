@@ -61,34 +61,9 @@ type="text/javascript">
 </div>
   
     
-<!-- ------------------ Google custom Search --------------- -->      
-<div id='cse-search-form' style='width: 80%; margin-left: 7%; margin-top: 5px'>Loading</div>   
-<script src='//www.google.com/jsapi' type='text/javascript'></script>
-<script type='text/javascript'>
-google.load('search', '1', {language: 'en', style: google.loader.themes.SHINY});
-google.setOnLoadCallback(function() {
-  var customSearchOptions = {};
-  var orderByOptions = {};
-  orderByOptions['keys'] = [{label: 'Relevance', key: ''} , {label: 'Date', key: 'date'}];
-  customSearchOptions['enableOrderBy'] = true;
-  customSearchOptions['orderByOptions'] = orderByOptions;
-  var imageSearchOptions = {};
-  imageSearchOptions['layout'] = 'google.search.ImageSearch.LAYOUT_POPUP';
-  customSearchOptions['enableImageSearch'] = true;
-  var customSearchControl =   new google.search.CustomSearchControl('003253755190318078394:diw3bpuwlfg', customSearchOptions);
-  customSearchControl.setResultSetSize(google.search.Search.LARGE_RESULTSET);
-  var options = new google.search.DrawOptions();
-  options.setSearchFormRoot('cse-search-form');
-  customSearchControl.draw('cse', options);
-}, true);
-</script>
+
   
-<!-- ---------Google custom Search results div--------------- -->    
-<div id='cse' style='width: 80%; margin-left: 7%; margin-top: 5px'></div>
-    
-    
-    
-<!-- ------------------ Debug Scripts --------------- -->    
+  
 <script>
     
 //schaffold variables for debug methods     
