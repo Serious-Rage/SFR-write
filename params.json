@@ -1,6 +1,6 @@
 {
   "name": "SFR-Write",
   "tagline": "Manage data, Handle files. Easy Breezy.",
-  "body": "# SFR-Write\r\n##### SFR-web\r\n*Write / append text files, and iterate through lines of text, on documents with in your directory structure. Easy responsive U.I.*\r\n**_This Product is currently in Development and the first Production Version is to be a PHP / Javascript based application._**\r\n\r\n\r\n\r\n\r\n",
+  "body": "# SFR-Write v1.0.1\r\n### SFR-web\r\n*Write / append text files, and iterate through lines of text, on documents with in your directory structure. Easy responsive U.I.*\r\n**_This Product is currently in Development and the first Production Version is to be a PHP / Javascript based application._**\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
