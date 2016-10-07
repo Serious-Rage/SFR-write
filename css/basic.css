@@ -13,6 +13,7 @@ body {
 #mainTitle {
     position:relative;
     left:-2%;
+    align-self: center;
     color:red;
 }
 
