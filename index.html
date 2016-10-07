@@ -35,7 +35,7 @@ type="text/javascript">
 <form method="post" action="Append-Write_toFile.php">   
 <p>List Items 
     
-<select id="slctFile" name="slctFile">
+<select id="slctFile" name="slctFile" onChange="setFrame()">
       <option value="one">one</option>
       <option value="two">two</option>
       <option value="three">three</option>    
@@ -54,7 +54,7 @@ type="text/javascript">
  <p> 10.  <input type="text" name="item7" size="40"></p>
 </span>
 
-
+<!-- <input id="selected_text" name="selected_text" type="text"></input> -->
 <input id='sbmtToFile' type="submit" value="Write">
 <input id="reset1" type="reset" value="Reset">
 </form>
@@ -65,6 +65,17 @@ type="text/javascript">
   
   
 <script>
+
+/*
+var setFrame = function() {
+var x = document.getElementById("slctFile"),
+i = x.selectedIndex;
+document.getElementById("selected_text").innerHTML = x.options[i].text;
+}
+
+
+*/
+
     
 //schaffold variables for debug methods     
 var SFRdebuger = 0;
