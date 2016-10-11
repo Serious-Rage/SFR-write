@@ -9,7 +9,7 @@
 
 <body>
 
-<h1 class="centered">DATA WAS APPENDED TO THE TEXT DOCUMRNT FRAMED BELOW</h1> 
+<h1 class="centered">DATA WAS APPENDED TO THE TEXT DOCUMENT FRAMED BELOW</h1> 
 
 <?php
 
