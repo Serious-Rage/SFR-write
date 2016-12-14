@@ -2,5 +2,5 @@
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="CONSOLE" />
   </component>
-  <component name="LiveEditOptions" restartIfHotSwapFailed="true" updatePolicy="AUTO" />
+  <component name="LiveEditOptions" restartIfHotSwapFailed="true" />
 </application>

@@ -1,0 +1,17 @@
+<application>
+  <component name="libraryTable">
+    <library name="jQuery-ui-1.12.1" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="jQuery UI" />
+        <option name="frameworkVersion" value="1.12.1" />
+        <sourceFilesUrls>
+          <item url="file:///Applications/MAMP/htdocs/cvi_libs/jqui-1-12-1" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file:///Applications/MAMP/htdocs/cvi_libs/jqui-1-12-1" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+  </component>
+</application>
