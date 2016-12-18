@@ -1,0 +1,6 @@
+<application>
+  <component name="GithubSettings">
+    <option name="AUTH_TYPE" value="TOKEN" />
+    <option name="PRIVATE_GIST" value="false" />
+  </component>
+</application>
