@@ -5,5 +5,9 @@
     <option name="PATTERN_ANNOTATION" value="org.intellij.lang.annotations.Pattern" />
     <option name="SUBST_ANNOTATION" value="org.intellij.lang.annotations.Subst" />
     <option name="RESOLVE_REFERENCES" value="true" />
+    <injection language="JavaScript" injector-id="xml">
+      <display-name>code</display-name>
+      <place><![CDATA[xmlTag().withLocalName(string().equalTo("code")).withNamespace(string().equalTo("http://www.w3.org/1999/html"))]]></place>
+    </injection>
   </component>
 </application>
