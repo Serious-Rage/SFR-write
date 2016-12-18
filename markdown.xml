@@ -1,0 +1,5 @@
+<application>
+  <component name="MarkdownApplicationSettings">
+    <MarkdownCssSettings StylesheetUri="jar:file:/Users/brandon/Library/Application%20Support/WebStorm2016.3/markdown/lib/markdown.jar!/org/intellij/plugins/markdown/settings/darcula.css" />
+  </component>
+</application>
