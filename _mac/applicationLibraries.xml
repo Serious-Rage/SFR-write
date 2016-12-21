@@ -1,5 +1,27 @@
 <application>
   <component name="libraryTable">
+    <library name="animation-frame-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_animation-frame_index.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_animation-frame_index.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="cli-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_cli_index.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_cli_index.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="fullpage.js-DefinitelyTyped" type="javaScript">
       <properties>
         <sourceFilesUrls>
@@ -9,6 +31,21 @@
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_fullpage.js_index.d.ts" />
       </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="jQuery UI-1.10.2" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="jQuery" />
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_ajax.googleapis.com_ajax_libs_jqueryui_1.10.2_jquery-ui.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_ajax.googleapis.com_ajax_libs_jqueryui_1.10.2_jquery-ui.js" />
+      </CLASSES>
+      <DOCUMENTATION>
+        <root url="http://api.jquery.com" />
+      </DOCUMENTATION>
       <SOURCES />
     </library>
     <library name="jQuery-ui-1.12.1" type="javaScript">
@@ -21,6 +58,19 @@
       </properties>
       <CLASSES>
         <root url="file:///Applications/MAMP/htdocs/cvi_libs/jqui-1-12-1" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="Knockout-2.2.1" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="Knockout" />
+        <option name="frameworkVersion" value="2.2.1" />
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_ajax.aspnetcdn.com_ajax_knockout_knockout-2.2.1.debug.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_ajax.aspnetcdn.com_ajax_knockout_knockout-2.2.1.debug.js" />
       </CLASSES>
       <SOURCES />
     </library>
