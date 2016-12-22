@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../js/rageHelper.js - [sfr-boilerMaker-5]'" />
-    <option name="defaultScopeName" value="File '.../js/rageHelper.js - [sfr-boilerMaker-5]'" />
-    <option name="SEARCH_SCOPE" value="File '.../js/rageHelper.js - [sfr-boilerMaker-5]'" />
+    <option name="customScope" value="Project 'AjaxJson'" />
+    <option name="defaultScopeName" value="Project 'AjaxJson'" />
+    <option name="SEARCH_SCOPE" value="Project 'AjaxJson'" />
   </component>
 </application>
