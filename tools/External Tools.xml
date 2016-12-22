@@ -1,0 +1,16 @@
+<toolSet name="External Tools">
+  <tool name="Afftnity" description="Vector Graphics Application" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="/Applications/Affinity Designer.app/Contents/MacOS/Affinity Designer" />
+      <option name="PARAMETERS" value="$FilePath$, $FileExt$, $ContentRoot$" />
+      <option name="WORKING_DIRECTORY" value="/Applications/Affinity Designer.app/Contents/MacOS" />
+    </exec>
+  </tool>
+  <tool name="textMate" description="textMate text editor" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="textMate" />
+      <option name="PARAMETERS" value="$ExecutableByFileExt$, $FileDir$, $ExecutableByFileExt$, $FilePath$, $ProjectName$, $ClipboardContent$, " />
+      <option name="WORKING_DIRECTORY" value="/Applications/TextMate.app" />
+    </exec>
+  </tool>
+</toolSet>
