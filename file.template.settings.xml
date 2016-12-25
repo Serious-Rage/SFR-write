@@ -5,6 +5,7 @@
       <template name="reference-lib.txt" reformat="true" live-template-enabled="true" />
     </default_templates>
     <includes_templates>
+      <template name="image.png" reformat="true" live-template-enabled="true" />
       <template name="php-inc.php" reformat="true" live-template-enabled="true" />
     </includes_templates>
   </component>
